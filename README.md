@@ -1,2 +1,2 @@
-# ModMenus
-TESTING.
+# Mod Menu Trainer
+Claude Trainer
