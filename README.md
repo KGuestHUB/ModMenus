@@ -1,2 +1,2 @@
-# Mod Menu Trainer
-Claude Trainer
+# Test Trainer Files
+Testing Mods
